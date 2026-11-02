@@ -15,6 +15,7 @@ The total cost comes to about **$30** for parts from AliExpress, tax and shippin
 | `docs/clock-schematic.png` / `.svg` | Single-page overview drawing showing pin numbers |
 | `docs/logic-clock.png` | Illustration of the completed build |
 | `bom.csv` | Bill of materials with links and prices |
+| `variants/arduino-nano/` | Optional alternative build: an Arduino Nano replaces board 2, with set buttons and an optional DS3231 clock module |
 
 ## How it works
 
