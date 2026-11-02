@@ -1,0 +1,1213 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1620" viewBox="0 0 1900 1620" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphZTEzYWFlOC02Yjc5LTRlYzEtYjYyOC04NDE5NmY2ZDA2YWMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCmCb6QjwTlE1gOED31XvCoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiMzE4MWIyYi1hM2YzLTQ2YmMtYjkxYS02MGI4Njg4NGQ3YWFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoMtP83KqRLOxd0APuVq+SOQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg3mdSiCz225RV4RzGudbfKudfDCNl73rKwTUoYzPKv+ykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaKK9+SFKo/vTqQ+5i/oSEHEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCEhqphMlxP1+HJymd/nQd4GI/jj2ugXwyvQz0bJ7W6P2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmFlMTNhYWU4LTZiNzktNGVjMS1iNjI4LTg0MTk2ZjZkMDZhYy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmJlZGViNDVlLTY4MjctNDMxYy04NjcyLTk1YzNjNDc1MGMwZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDeZ1KILPbblFXhHMa51t8q518MI2XvesrBNShjM8q/7KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggoQCRns1O99rQtnDUDWjAFepV6qvyaVh+W1p1RocGfYyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggE9T3850kAxc+Wb9FMGkv1yeByXwV9/ZpnJqwgGV8yRR0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJJKL0tlRpqpFh/NMzPWESVP2LIhVdkNYkS6Nemu+3mU8b34GWBVoO5jzzy8qtCU4IIY49yb4scX6Q4/v1HEazw=</c2pa:manifest></metadata>
+<rect width="1900" height="1620" fill="#f6f7f9"/>
+<text x="20" y="38" font-size="21" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">Logic-chip clock schematic (HH:MM, no microcontroller)</text>
+<text x="1880" y="38" font-size="13" text-anchor="end" fill="#1d4ed8" font-weight="bold" font-family="Helvetica, Arial, sans-serif">Labels with the same name are connected</text>
+<rect x="20" y="56" width="1020" height="528" rx="10" fill="#ffffff" stroke="#c7cdd6" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="36" y="84" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">1 · Timebase and time-setting</text>
+<rect x="430" y="250" width="150" height="266" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="430" y1="288" x2="580" y2="288" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="505.0" y="267" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U1 · CD4060</text>
+<text x="505.0" y="281" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">oscillator + ÷16384</text>
+<line x1="396" y1="302" x2="430" y2="302" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="426" y="298" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">11</text>
+<text x="437" y="306" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">φI (osc in)</text>
+<line x1="396" y1="324" x2="430" y2="324" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="426" y="320" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="437" y="328" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">/φO (osc out)</text>
+<line x1="396" y1="346" x2="430" y2="346" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="426" y="342" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="437" y="350" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">φO (RC only)</text>
+<line x1="392" y1="342" x2="400" y2="350" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="392" y1="350" x2="400" y2="342" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="396" y1="368" x2="430" y2="368" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="426" y="364" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">12</text>
+<text x="437" y="372" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">RESET</text>
+<polygon points="396,368 389,360 359.3,360 359.3,376 389,376" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="374.15" y="372" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="580" y1="302" x2="614" y2="302" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="584" y="298" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="573" y="306" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q4</text>
+<polygon points="614,302 621,294 671.4,294 671.4,310 621,310" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="646.2" y="306" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">2048HZ</text>
+<line x1="580" y1="324" x2="614" y2="324" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="584" y="320" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="573" y="328" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q5</text>
+<line x1="610" y1="320" x2="618" y2="328" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="610" y1="328" x2="618" y2="320" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="580" y1="346" x2="614" y2="346" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="584" y="342" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="573" y="350" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q6</text>
+<line x1="610" y1="342" x2="618" y2="350" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="610" y1="350" x2="618" y2="342" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="580" y1="368" x2="614" y2="368" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="584" y="364" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="573" y="372" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q7</text>
+<line x1="610" y1="364" x2="618" y2="372" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="610" y1="372" x2="618" y2="364" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="580" y1="390" x2="614" y2="390" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="584" y="386" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">14</text>
+<text x="573" y="394" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q8</text>
+<polygon points="614,390 621,382 664.5,382 664.5,398 621,398" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="642.75" y="394" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">128HZ</text>
+<line x1="580" y1="412" x2="614" y2="412" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="584" y="408" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">13</text>
+<text x="573" y="416" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q9</text>
+<line x1="610" y1="408" x2="618" y2="416" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="610" y1="416" x2="618" y2="408" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="580" y1="434" x2="614" y2="434" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="584" y="430" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">15</text>
+<text x="573" y="438" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q10</text>
+<line x1="610" y1="430" x2="618" y2="438" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="610" y1="438" x2="618" y2="430" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="580" y1="456" x2="614" y2="456" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="584" y="452" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="573" y="460" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q12</text>
+<line x1="610" y1="452" x2="618" y2="460" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="610" y1="460" x2="618" y2="452" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="580" y1="478" x2="614" y2="478" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="584" y="474" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="573" y="482" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q13</text>
+<line x1="610" y1="474" x2="618" y2="482" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="610" y1="482" x2="618" y2="474" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="580" y1="500" x2="614" y2="500" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="584" y="496" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3</text>
+<text x="573" y="504" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q14</text>
+<polygon points="614,500 621,492 650.7,492 650.7,508 621,508" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="635.85" y="504" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">2HZ</text>
+<line x1="505.0" y1="232" x2="505.0" y2="250" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="510.0" y="245" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">16</text>
+<line x1="496.0" y1="232" x2="514.0" y2="232" stroke="#b91c1c" stroke-width="2" stroke-linecap="round"/>
+<text x="505.0" y="227" font-size="10" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Helvetica, Arial, sans-serif">+5V</text>
+<line x1="505.0" y1="516" x2="505.0" y2="532" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="510.0" y="528" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">8</text>
+<line x1="505.0" y1="532" x2="505.0" y2="538" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="496.0" y1="538" x2="514.0" y2="538" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="499.5" y1="542" x2="510.5" y2="542" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="503.0" y1="546" x2="507.0" y2="546" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="360" y1="302" x2="396" y2="302" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="80" y1="324" x2="396" y2="324" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="360" y1="302" x2="360" y2="130" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="80" y1="324" x2="80" y2="130" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="80" y1="130" x2="101.0" y2="130" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="129.0" y1="130" x2="150" y2="130" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="101.0" y="125" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="115.0" y="120" font-size="10" text-anchor="middle" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">R30 1M</text>
+<line x1="150" y1="130" x2="171.0" y2="130" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="199.0" y1="130" x2="220" y2="130" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="171.0" y="125" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="185.0" y="120" font-size="10" text-anchor="middle" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">R31 1M</text>
+<line x1="220" y1="130" x2="241.0" y2="130" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="269.0" y1="130" x2="290" y2="130" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="241.0" y="125" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="255.0" y="120" font-size="10" text-anchor="middle" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">R32 1M</text>
+<line x1="290" y1="130" x2="311.0" y2="130" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="339.0" y1="130" x2="360" y2="130" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="311.0" y="125" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="325.0" y="120" font-size="10" text-anchor="middle" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">R33 1M</text>
+<line x1="80" y1="200" x2="207.0" y2="200" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="233.0" y1="200" x2="360" y2="200" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="207.0" y1="190" x2="207.0" y2="210" stroke="#1f2937" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="233.0" y1="190" x2="233.0" y2="210" stroke="#1f2937" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="213.0" y="188" width="14" height="24" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="220.0" y="180" font-size="10.5" text-anchor="middle" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Y1  32.768 kHz</text>
+<circle cx="80" cy="200" r="3.4" fill="#1f2937"/>
+<circle cx="360" cy="200" r="3.4" fill="#1f2937"/>
+<line x1="130" y1="200" x2="130" y2="222.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="130" y1="230.0" x2="130" y2="252" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="120" y1="222.0" x2="140" y2="222.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="120" y1="230.0" x2="140" y2="230.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<text x="145" y="230.0" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">C2  22 pF</text>
+<line x1="130" y1="252" x2="130" y2="258" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="121" y1="258" x2="139" y2="258" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="124.5" y1="262" x2="135.5" y2="262" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="128" y1="266" x2="132" y2="266" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<circle cx="130" cy="200" r="3.4" fill="#1f2937"/>
+<line x1="310" y1="200" x2="310" y2="222.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="310" y1="230.0" x2="310" y2="252" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="300" y1="222.0" x2="320" y2="222.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="300" y1="230.0" x2="320" y2="230.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<text x="295" y="230.0" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">C1  22 pF</text>
+<line x1="310" y1="252" x2="310" y2="258" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="301" y1="258" x2="319" y2="258" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="304.5" y1="262" x2="315.5" y2="262" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="308" y1="266" x2="312" y2="266" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<circle cx="310" cy="200" r="3.4" fill="#1f2937"/>
+<text x="80" y="362" font-size="10.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">R30–R33 in series = 4 MΩ feedback resistor</text>
+<text x="80" y="378" font-size="10.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q14 = 32 768 Hz ÷ 16 384 = 2 Hz</text>
+<polygon points="800,320 793,312 749.5,312 749.5,328 793,328" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="771.25" y="324" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">128HZ</text>
+<line x1="800" y1="320" x2="836.0" y2="320" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="874.0" y1="320" x2="910" y2="320" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="839.0" cy="320" r="3.2" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<circle cx="871.0" cy="320" r="3.2" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<path d="M839.0 314 Q855.0 298 871.0 314" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="855.0" y="292" font-size="10.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">JP1 · SET MIN</text>
+<polygon points="800,390 793,382 742.6,382 742.6,398 793,398" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="767.8" y="394" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">2048HZ</text>
+<line x1="800" y1="390" x2="836.0" y2="390" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="874.0" y1="390" x2="910" y2="390" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="839.0" cy="390" r="3.2" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<circle cx="871.0" cy="390" r="3.2" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<path d="M839.0 384 Q855.0 368 871.0 384" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="855.0" y="362" font-size="10.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">JP2 · SET HR</text>
+<line x1="910" y1="320" x2="910" y2="440" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="910" cy="390" r="3.4" fill="#1f2937"/>
+<circle cx="910" cy="440" r="3.4" fill="#1f2937"/>
+<line x1="910" y1="440" x2="960" y2="440" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="960,440 967,432 996.7,432 996.7,448 967,448" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="981.85" y="444" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">SET</text>
+<line x1="910" y1="440" x2="910" y2="461.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="910" y1="489.0" x2="910" y2="510" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="905" y="461.0" width="10" height="28" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="922" y="479.0" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">R34  10 kΩ</text>
+<line x1="910" y1="510" x2="910" y2="516" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="901" y1="516" x2="919" y2="516" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="904.5" y1="520" x2="915.5" y2="520" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="908" y1="524" x2="912" y2="524" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<text x="745" y="548" font-size="10.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Bridge JP1 with a jumper wire → minutes ~1 per second</text>
+<text x="745" y="564" font-size="10.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Bridge JP2 with a jumper wire → hours ~1 per 3.5 s</text>
+<rect x="1060" y="56" width="820" height="528" rx="10" fill="#ffffff" stroke="#c7cdd6" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="1076" y="84" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">3 · Reset logic (U10 · CD4081 quad AND)</text>
+<path d="M1330 130 L1358 130 A20 20 0 0 1 1358 170 L1330 170 Z" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="1290" y1="140" x2="1330" y2="140" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="136" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<polygon points="1290,140 1283,132 1239.5,132 1239.5,148 1283,148" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1261.25" y="144" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">S10_B</text>
+<line x1="1290" y1="160" x2="1330" y2="160" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="156" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<polygon points="1290,160 1283,152 1239.5,152 1239.5,168 1283,168" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1261.25" y="164" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">S10_C</text>
+<line x1="1378" y1="150" x2="1418" y2="150" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1382" y="146" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3</text>
+<polygon points="1418,150 1425,142 1482.3,142 1482.3,158 1425,158" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1453.65" y="154" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">S10_RST</text>
+<text x="1352" y="186" font-size="10" text-anchor="middle" fill="#6b7280" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U10A</text>
+<text x="1535" y="146" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Seconds-tens reaches 6 (Q2 and Q3 high)</text>
+<text x="1535" y="162" font-size="11.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">→ resets it to 0; its Q3 falling ticks the minutes</text>
+<path d="M1330 260 L1358 260 A20 20 0 0 1 1358 300 L1330 300 Z" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="1290" y1="270" x2="1330" y2="270" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="266" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<polygon points="1290,270 1283,262 1239.5,262 1239.5,278 1283,278" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1261.25" y="274" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_B</text>
+<line x1="1290" y1="290" x2="1330" y2="290" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="286" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<polygon points="1290,290 1283,282 1239.5,282 1239.5,298 1283,298" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1261.25" y="294" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_C</text>
+<line x1="1378" y1="280" x2="1418" y2="280" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1382" y="276" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<polygon points="1418,280 1425,272 1482.3,272 1482.3,288 1425,288" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1453.65" y="284" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_RST</text>
+<text x="1352" y="316" font-size="10" text-anchor="middle" fill="#6b7280" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U10B</text>
+<text x="1535" y="276" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Minutes-tens reaches 6</text>
+<text x="1535" y="292" font-size="11.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">→ resets it to 0; its Q3 falling ticks the hours</text>
+<path d="M1330 390 L1358 390 A20 20 0 0 1 1358 430 L1330 430 Z" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="1290" y1="400" x2="1330" y2="400" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="396" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">8</text>
+<polygon points="1290,400 1283,392 1239.5,392 1239.5,408 1283,408" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1261.25" y="404" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H10_B</text>
+<line x1="1290" y1="420" x2="1330" y2="420" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="416" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<polygon points="1290,420 1283,412 1246.4,412 1246.4,428 1283,428" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1264.7" y="424" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H1_C</text>
+<line x1="1378" y1="410" x2="1418" y2="410" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1382" y="406" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<polygon points="1418,410 1425,402 1482.3,402 1482.3,418 1425,418" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1453.65" y="414" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H24_RST</text>
+<text x="1352" y="446" font-size="10" text-anchor="middle" fill="#6b7280" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U10C</text>
+<text x="1535" y="406" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Hours reach 24 (tens Q2 and ones Q3 high)</text>
+<text x="1535" y="422" font-size="11.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">→ resets both hour digits to 00</text>
+<text x="1080" y="520" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U10D unused: tie pins 12 and 13 to GND, leave pin 11 open.</text>
+<text x="1080" y="540" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U10 power: pin 14 → +5V, pin 7 → GND.</text>
+<rect x="20" y="600" width="1860" height="352" rx="10" fill="#ffffff" stroke="#c7cdd6" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="36" y="628" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">2 · Counter chain (CD4518 dual BCD counters)</text>
+<rect x="160" y="690" width="185" height="222" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="160" y1="728" x2="345" y2="728" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="252.5" y="707" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U2 · CD4518</text>
+<text x="252.5" y="721" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">÷2 (A) · seconds ones (B)</text>
+<line x1="126" y1="742" x2="160" y2="742" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="156" y="738" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="167" y="746" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">CLK A</text>
+<polygon points="126,742 119,734 89.3,734 89.3,750 119,750" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="104.15" y="746" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">2HZ</text>
+<line x1="126" y1="764" x2="160" y2="764" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="156" y="760" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="167" y="768" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">EN A</text>
+<polygon points="126,764 119,756 89.3,756 89.3,772 119,772" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.2"/>
+<text x="104.15" y="768" font-size="10.5" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Menlo, Consolas, monospace">+5V</text>
+<line x1="126" y1="786" x2="160" y2="786" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="156" y="782" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="167" y="790" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">RST A</text>
+<polygon points="126,786 119,778 89.3,778 89.3,794 119,794" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="104.15" y="790" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="126" y1="808" x2="160" y2="808" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="156" y="804" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="167" y="812" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">CLK B</text>
+<polygon points="126,808 119,800 89.3,800 89.3,816 119,816" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="104.15" y="812" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">SET</text>
+<line x1="126" y1="830" x2="160" y2="830" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="156" y="826" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="167" y="834" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">EN B</text>
+<polygon points="126,830 119,822 89.3,822 89.3,838 119,838" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="104.15" y="834" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">1HZ</text>
+<line x1="126" y1="852" x2="160" y2="852" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="156" y="848" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">15</text>
+<text x="167" y="856" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">RST B</text>
+<polygon points="126,852 119,844 89.3,844 89.3,860 119,860" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="104.15" y="856" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="345" y1="742" x2="379" y2="742" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="349" y="738" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3</text>
+<text x="338" y="746" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q1 A</text>
+<polygon points="379,742 386,734 415.7,734 415.7,750 386,750" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="400.85" y="746" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">1HZ</text>
+<line x1="345" y1="764" x2="379" y2="764" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="349" y="760" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="338" y="768" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q2 A</text>
+<line x1="375" y1="760" x2="383" y2="768" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="375" y1="768" x2="383" y2="760" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="345" y1="786" x2="379" y2="786" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="349" y="782" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="338" y="790" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q3 A</text>
+<line x1="375" y1="782" x2="383" y2="790" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="375" y1="790" x2="383" y2="782" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="345" y1="808" x2="379" y2="808" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="349" y="804" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="338" y="812" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q4 A</text>
+<line x1="375" y1="804" x2="383" y2="812" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="375" y1="812" x2="383" y2="804" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="345" y1="830" x2="379" y2="830" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="349" y="826" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">11</text>
+<text x="338" y="834" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q1 B</text>
+<line x1="375" y1="826" x2="383" y2="834" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="375" y1="834" x2="383" y2="826" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="345" y1="852" x2="379" y2="852" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="349" y="848" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">12</text>
+<text x="338" y="856" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q2 B</text>
+<line x1="375" y1="848" x2="383" y2="856" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="375" y1="856" x2="383" y2="848" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="345" y1="874" x2="379" y2="874" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="349" y="870" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">13</text>
+<text x="338" y="878" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q3 B</text>
+<line x1="375" y1="870" x2="383" y2="878" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="375" y1="878" x2="383" y2="870" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="345" y1="896" x2="379" y2="896" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="349" y="892" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">14</text>
+<text x="338" y="900" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q4 B</text>
+<polygon points="379,896 386,888 422.6,888 422.6,904 386,904" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="404.3" y="900" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">S1_D</text>
+<line x1="252.5" y1="672" x2="252.5" y2="690" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="257.5" y="685" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">16</text>
+<line x1="243.5" y1="672" x2="261.5" y2="672" stroke="#b91c1c" stroke-width="2" stroke-linecap="round"/>
+<text x="252.5" y="667" font-size="10" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Helvetica, Arial, sans-serif">+5V</text>
+<line x1="252.5" y1="912" x2="252.5" y2="928" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="257.5" y="924" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">8</text>
+<line x1="252.5" y1="928" x2="252.5" y2="934" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="243.5" y1="934" x2="261.5" y2="934" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="247.0" y1="938" x2="258.0" y2="938" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="250.5" y1="942" x2="254.5" y2="942" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="625" y="690" width="185" height="222" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="625" y1="728" x2="810" y2="728" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="717.5" y="707" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U3 · CD4518</text>
+<text x="717.5" y="721" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">seconds tens (A) · minutes ones (B)</text>
+<line x1="591" y1="742" x2="625" y2="742" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="621" y="738" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="632" y="746" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">CLK A</text>
+<polygon points="591,742 584,734 554.3,734 554.3,750 584,750" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="569.15" y="746" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="591" y1="764" x2="625" y2="764" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="621" y="760" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="632" y="768" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">EN A</text>
+<polygon points="591,764 584,756 547.4,756 547.4,772 584,772" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="565.7" y="768" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">S1_D</text>
+<line x1="591" y1="786" x2="625" y2="786" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="621" y="782" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="632" y="790" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">RST A</text>
+<polygon points="591,786 584,778 526.7,778 526.7,794 584,794" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="555.35" y="790" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">S10_RST</text>
+<line x1="591" y1="808" x2="625" y2="808" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="621" y="804" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="632" y="812" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">CLK B</text>
+<polygon points="591,808 584,800 554.3,800 554.3,816 584,816" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="569.15" y="812" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="591" y1="830" x2="625" y2="830" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="621" y="826" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="632" y="834" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">EN B</text>
+<polygon points="591,830 584,822 540.5,822 540.5,838 584,838" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="562.25" y="834" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">S10_C</text>
+<line x1="591" y1="852" x2="625" y2="852" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="621" y="848" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">15</text>
+<text x="632" y="856" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">RST B</text>
+<polygon points="591,852 584,844 554.3,844 554.3,860 584,860" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="569.15" y="856" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="810" y1="742" x2="844" y2="742" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="814" y="738" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3</text>
+<text x="803" y="746" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q1 A</text>
+<line x1="840" y1="738" x2="848" y2="746" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="840" y1="746" x2="848" y2="738" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="810" y1="764" x2="844" y2="764" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="814" y="760" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="803" y="768" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q2 A</text>
+<polygon points="844,764 851,756 894.5,756 894.5,772 851,772" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="872.75" y="768" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">S10_B</text>
+<line x1="810" y1="786" x2="844" y2="786" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="814" y="782" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="803" y="790" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q3 A</text>
+<polygon points="844,786 851,778 894.5,778 894.5,794 851,794" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="872.75" y="790" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">S10_C</text>
+<line x1="810" y1="808" x2="844" y2="808" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="814" y="804" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="803" y="812" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q4 A</text>
+<line x1="840" y1="804" x2="848" y2="812" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="840" y1="812" x2="848" y2="804" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="810" y1="830" x2="844" y2="830" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="814" y="826" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">11</text>
+<text x="803" y="834" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q1 B</text>
+<polygon points="844,830 851,822 887.6,822 887.6,838 851,838" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="869.3" y="834" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M1_A</text>
+<line x1="810" y1="852" x2="844" y2="852" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="814" y="848" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">12</text>
+<text x="803" y="856" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q2 B</text>
+<polygon points="844,852 851,844 887.6,844 887.6,860 851,860" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="869.3" y="856" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M1_B</text>
+<line x1="810" y1="874" x2="844" y2="874" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="814" y="870" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">13</text>
+<text x="803" y="878" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q3 B</text>
+<polygon points="844,874 851,866 887.6,866 887.6,882 851,882" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="869.3" y="878" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M1_C</text>
+<line x1="810" y1="896" x2="844" y2="896" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="814" y="892" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">14</text>
+<text x="803" y="900" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q4 B</text>
+<polygon points="844,896 851,888 887.6,888 887.6,904 851,904" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="869.3" y="900" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M1_D</text>
+<line x1="717.5" y1="672" x2="717.5" y2="690" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="722.5" y="685" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">16</text>
+<line x1="708.5" y1="672" x2="726.5" y2="672" stroke="#b91c1c" stroke-width="2" stroke-linecap="round"/>
+<text x="717.5" y="667" font-size="10" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Helvetica, Arial, sans-serif">+5V</text>
+<line x1="717.5" y1="912" x2="717.5" y2="928" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="722.5" y="924" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">8</text>
+<line x1="717.5" y1="928" x2="717.5" y2="934" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="708.5" y1="934" x2="726.5" y2="934" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="712.0" y1="938" x2="723.0" y2="938" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="715.5" y1="942" x2="719.5" y2="942" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="1090" y="690" width="185" height="222" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="1090" y1="728" x2="1275" y2="728" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="1182.5" y="707" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U4 · CD4518</text>
+<text x="1182.5" y="721" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">minutes tens (A) · hours ones (B)</text>
+<line x1="1056" y1="742" x2="1090" y2="742" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1086" y="738" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="1097" y="746" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">CLK A</text>
+<polygon points="1056,742 1049,734 1019.3,734 1019.3,750 1049,750" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="1034.15" y="746" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="1056" y1="764" x2="1090" y2="764" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1086" y="760" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="1097" y="768" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">EN A</text>
+<polygon points="1056,764 1049,756 1012.4,756 1012.4,772 1049,772" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1030.7" y="768" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M1_D</text>
+<line x1="1056" y1="786" x2="1090" y2="786" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1086" y="782" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="1097" y="790" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">RST A</text>
+<polygon points="1056,786 1049,778 991.7,778 991.7,794 1049,794" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1020.35" y="790" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_RST</text>
+<line x1="1056" y1="808" x2="1090" y2="808" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1086" y="804" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="1097" y="812" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">CLK B</text>
+<polygon points="1056,808 1049,800 1019.3,800 1019.3,816 1049,816" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="1034.15" y="812" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="1056" y1="830" x2="1090" y2="830" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1086" y="826" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="1097" y="834" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">EN B</text>
+<polygon points="1056,830 1049,822 1005.5,822 1005.5,838 1049,838" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1027.25" y="834" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_C</text>
+<line x1="1056" y1="852" x2="1090" y2="852" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1086" y="848" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">15</text>
+<text x="1097" y="856" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">RST B</text>
+<polygon points="1056,852 1049,844 991.7,844 991.7,860 1049,860" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1020.35" y="856" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H24_RST</text>
+<line x1="1275" y1="742" x2="1309" y2="742" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1279" y="738" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3</text>
+<text x="1268" y="746" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q1 A</text>
+<polygon points="1309,742 1316,734 1359.5,734 1359.5,750 1316,750" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1337.75" y="746" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_A</text>
+<line x1="1275" y1="764" x2="1309" y2="764" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1279" y="760" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="1268" y="768" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q2 A</text>
+<polygon points="1309,764 1316,756 1359.5,756 1359.5,772 1316,772" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1337.75" y="768" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_B</text>
+<line x1="1275" y1="786" x2="1309" y2="786" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1279" y="782" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="1268" y="790" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q3 A</text>
+<polygon points="1309,786 1316,778 1359.5,778 1359.5,794 1316,794" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1337.75" y="790" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_C</text>
+<line x1="1275" y1="808" x2="1309" y2="808" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1279" y="804" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="1268" y="812" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q4 A</text>
+<polygon points="1309,808 1316,800 1359.5,800 1359.5,816 1316,816" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1337.75" y="812" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_D</text>
+<line x1="1275" y1="830" x2="1309" y2="830" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1279" y="826" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">11</text>
+<text x="1268" y="834" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q1 B</text>
+<polygon points="1309,830 1316,822 1352.6,822 1352.6,838 1316,838" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1334.3" y="834" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H1_A</text>
+<line x1="1275" y1="852" x2="1309" y2="852" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1279" y="848" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">12</text>
+<text x="1268" y="856" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q2 B</text>
+<polygon points="1309,852 1316,844 1352.6,844 1352.6,860 1316,860" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1334.3" y="856" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H1_B</text>
+<line x1="1275" y1="874" x2="1309" y2="874" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1279" y="870" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">13</text>
+<text x="1268" y="878" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q3 B</text>
+<polygon points="1309,874 1316,866 1352.6,866 1352.6,882 1316,882" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1334.3" y="878" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H1_C</text>
+<line x1="1275" y1="896" x2="1309" y2="896" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1279" y="892" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">14</text>
+<text x="1268" y="900" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q4 B</text>
+<polygon points="1309,896 1316,888 1352.6,888 1352.6,904 1316,904" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1334.3" y="900" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H1_D</text>
+<line x1="1182.5" y1="672" x2="1182.5" y2="690" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1187.5" y="685" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">16</text>
+<line x1="1173.5" y1="672" x2="1191.5" y2="672" stroke="#b91c1c" stroke-width="2" stroke-linecap="round"/>
+<text x="1182.5" y="667" font-size="10" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Helvetica, Arial, sans-serif">+5V</text>
+<line x1="1182.5" y1="912" x2="1182.5" y2="928" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1187.5" y="924" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">8</text>
+<line x1="1182.5" y1="928" x2="1182.5" y2="934" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1173.5" y1="934" x2="1191.5" y2="934" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1177.0" y1="938" x2="1188.0" y2="938" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1180.5" y1="942" x2="1184.5" y2="942" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="1555" y="690" width="185" height="222" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="1555" y1="728" x2="1740" y2="728" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="1647.5" y="707" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U5 · CD4518</text>
+<text x="1647.5" y="721" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">hours tens (A) · B unused</text>
+<line x1="1521" y1="742" x2="1555" y2="742" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1551" y="738" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="1562" y="746" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">CLK A</text>
+<polygon points="1521,742 1514,734 1484.3,734 1484.3,750 1514,750" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="1499.15" y="746" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="1521" y1="764" x2="1555" y2="764" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1551" y="760" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="1562" y="768" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">EN A</text>
+<polygon points="1521,764 1514,756 1477.4,756 1477.4,772 1514,772" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1495.7" y="768" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H1_D</text>
+<line x1="1521" y1="786" x2="1555" y2="786" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1551" y="782" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="1562" y="790" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">RST A</text>
+<polygon points="1521,786 1514,778 1456.7,778 1456.7,794 1514,794" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1485.35" y="790" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H24_RST</text>
+<line x1="1521" y1="808" x2="1555" y2="808" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1551" y="804" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="1562" y="812" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">CLK B</text>
+<polygon points="1521,808 1514,800 1484.3,800 1484.3,816 1514,816" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="1499.15" y="812" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="1521" y1="830" x2="1555" y2="830" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1551" y="826" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="1562" y="834" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">EN B</text>
+<polygon points="1521,830 1514,822 1484.3,822 1484.3,838 1514,838" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="1499.15" y="834" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="1521" y1="852" x2="1555" y2="852" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1551" y="848" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">15</text>
+<text x="1562" y="856" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">RST B</text>
+<polygon points="1521,852 1514,844 1484.3,844 1484.3,860 1514,860" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="1499.15" y="856" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="1740" y1="742" x2="1774" y2="742" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1744" y="738" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3</text>
+<text x="1733" y="746" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q1 A</text>
+<polygon points="1774,742 1781,734 1824.5,734 1824.5,750 1781,750" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1802.75" y="746" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H10_A</text>
+<line x1="1740" y1="764" x2="1774" y2="764" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1744" y="760" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="1733" y="768" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q2 A</text>
+<polygon points="1774,764 1781,756 1824.5,756 1824.5,772 1781,772" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1802.75" y="768" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H10_B</text>
+<line x1="1740" y1="786" x2="1774" y2="786" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1744" y="782" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="1733" y="790" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q3 A</text>
+<polygon points="1774,786 1781,778 1824.5,778 1824.5,794 1781,794" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1802.75" y="790" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H10_C</text>
+<line x1="1740" y1="808" x2="1774" y2="808" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1744" y="804" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="1733" y="812" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q4 A</text>
+<polygon points="1774,808 1781,800 1824.5,800 1824.5,816 1781,816" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1802.75" y="812" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H10_D</text>
+<line x1="1740" y1="830" x2="1774" y2="830" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1744" y="826" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">11</text>
+<text x="1733" y="834" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q1 B</text>
+<line x1="1770" y1="826" x2="1778" y2="834" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1770" y1="834" x2="1778" y2="826" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1740" y1="852" x2="1774" y2="852" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1744" y="848" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">12</text>
+<text x="1733" y="856" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q2 B</text>
+<line x1="1770" y1="848" x2="1778" y2="856" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1770" y1="856" x2="1778" y2="848" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1740" y1="874" x2="1774" y2="874" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1744" y="870" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">13</text>
+<text x="1733" y="878" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q3 B</text>
+<line x1="1770" y1="870" x2="1778" y2="878" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1770" y1="878" x2="1778" y2="870" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1740" y1="896" x2="1774" y2="896" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1744" y="892" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">14</text>
+<text x="1733" y="900" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Q4 B</text>
+<line x1="1770" y1="892" x2="1778" y2="900" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1770" y1="900" x2="1778" y2="892" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1647.5" y1="672" x2="1647.5" y2="690" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1652.5" y="685" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">16</text>
+<line x1="1638.5" y1="672" x2="1656.5" y2="672" stroke="#b91c1c" stroke-width="2" stroke-linecap="round"/>
+<text x="1647.5" y="667" font-size="10" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Helvetica, Arial, sans-serif">+5V</text>
+<line x1="1647.5" y1="912" x2="1647.5" y2="928" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1652.5" y="924" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">8</text>
+<line x1="1647.5" y1="928" x2="1647.5" y2="934" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1638.5" y1="934" x2="1656.5" y2="934" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1642.0" y1="938" x2="1653.0" y2="938" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1645.5" y1="942" x2="1649.5" y2="942" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="20" y="968" width="1860" height="354" rx="10" fill="#ffffff" stroke="#c7cdd6" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="36" y="996" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">4 · Decoders and displays (CD4511 → 470–680 Ω per segment → 5161AS common-cathode)</text>
+<rect x="125" y="1040" width="130" height="200" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="125" y1="1078" x2="255" y2="1078" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="190.0" y="1057" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U6 · CD4511</text>
+<text x="190.0" y="1071" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">hours tens decoder</text>
+<line x1="91" y1="1092" x2="125" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="121" y="1088" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="132" y="1096" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">A</text>
+<polygon points="91,1092 84,1084 40.5,1084 40.5,1100 84,1100" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="62.25" y="1096" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H10_A</text>
+<line x1="91" y1="1114" x2="125" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="121" y="1110" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="132" y="1118" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">B</text>
+<polygon points="91,1114 84,1106 40.5,1106 40.5,1122 84,1122" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="62.25" y="1118" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H10_B</text>
+<line x1="91" y1="1136" x2="125" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="121" y="1132" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="132" y="1140" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">C</text>
+<polygon points="91,1136 84,1128 40.5,1128 40.5,1144 84,1144" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="62.25" y="1140" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H10_C</text>
+<line x1="91" y1="1158" x2="125" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="121" y="1154" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="132" y="1162" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">D</text>
+<polygon points="91,1158 84,1150 40.5,1150 40.5,1166 84,1166" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="62.25" y="1162" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H10_D</text>
+<line x1="91" y1="1180" x2="125" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="121" y="1176" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3</text>
+<text x="132" y="1184" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">LT̅</text>
+<polygon points="91,1180 84,1172 54.3,1172 54.3,1188 84,1188" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.2"/>
+<text x="69.15" y="1184" font-size="10.5" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Menlo, Consolas, monospace">+5V</text>
+<line x1="91" y1="1202" x2="125" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="121" y="1198" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="132" y="1206" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">BI̅</text>
+<polygon points="91,1202 84,1194 54.3,1194 54.3,1210 84,1210" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.2"/>
+<text x="69.15" y="1206" font-size="10.5" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Menlo, Consolas, monospace">+5V</text>
+<line x1="91" y1="1224" x2="125" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="121" y="1220" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="132" y="1228" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">LE</text>
+<polygon points="91,1224 84,1216 54.3,1216 54.3,1232 84,1232" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="69.15" y="1228" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="255" y1="1092" x2="289" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="259" y="1088" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">13</text>
+<text x="248" y="1096" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">a</text>
+<line x1="255" y1="1114" x2="289" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="259" y="1110" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">12</text>
+<text x="248" y="1118" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">b</text>
+<line x1="255" y1="1136" x2="289" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="259" y="1132" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">11</text>
+<text x="248" y="1140" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">c</text>
+<line x1="255" y1="1158" x2="289" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="259" y="1154" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="248" y="1162" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">d</text>
+<line x1="255" y1="1180" x2="289" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="259" y="1176" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="248" y="1184" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">e</text>
+<line x1="255" y1="1202" x2="289" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="259" y="1198" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">15</text>
+<text x="248" y="1206" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">f</text>
+<line x1="255" y1="1224" x2="289" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="259" y="1220" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">14</text>
+<text x="248" y="1228" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">g</text>
+<line x1="190.0" y1="1022" x2="190.0" y2="1040" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="195.0" y="1035" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">16</text>
+<line x1="181.0" y1="1022" x2="199.0" y2="1022" stroke="#b91c1c" stroke-width="2" stroke-linecap="round"/>
+<text x="190.0" y="1017" font-size="10" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Helvetica, Arial, sans-serif">+5V</text>
+<line x1="190.0" y1="1240" x2="190.0" y2="1256" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="195.0" y="1252" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">8</text>
+<line x1="190.0" y1="1256" x2="190.0" y2="1262" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="181.0" y1="1262" x2="199.0" y2="1262" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="184.5" y1="1266" x2="195.5" y2="1266" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="188.0" y1="1270" x2="192.0" y2="1270" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="400" y="1040" width="70" height="222" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="400" y1="1078" x2="470" y2="1078" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="435.0" y="1057" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">DS1</text>
+<text x="435.0" y="1071" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">hours tens</text>
+<line x1="364" y1="1092" x2="400" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="396" y="1088" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="406" y="1096" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">a</text>
+<line x1="364" y1="1114" x2="400" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="396" y="1110" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="406" y="1118" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">b</text>
+<line x1="364" y1="1136" x2="400" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="396" y="1132" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="406" y="1140" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">c</text>
+<line x1="364" y1="1158" x2="400" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="396" y="1154" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="406" y="1162" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">d</text>
+<line x1="364" y1="1180" x2="400" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="396" y="1176" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="406" y="1184" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">e</text>
+<line x1="364" y1="1202" x2="400" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="396" y="1198" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="406" y="1206" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">f</text>
+<line x1="364" y1="1224" x2="400" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="396" y="1220" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="406" y="1228" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">g</text>
+<line x1="364" y1="1246" x2="400" y2="1246" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="396" y="1242" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="406" y="1250" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">DP</text>
+<rect x="439" y="1124" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="455" y="1129" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="455" y="1161.5" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="439" y="1189" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="434" y="1161.5" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="434" y="1129" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="439" y="1156.5" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<circle cx="465" cy="1192" r="2.6" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<line x1="435.0" y1="1262" x2="435.0" y2="1278" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="440.0" y="1274" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3, 8 (COM)</text>
+<line x1="435.0" y1="1278" x2="435.0" y2="1284" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="426.0" y1="1284" x2="444.0" y2="1284" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="429.5" y1="1288" x2="440.5" y2="1288" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="433.0" y1="1292" x2="437.0" y2="1292" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="289" y1="1092" x2="312.5" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="340.5" y1="1092" x2="364" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="312.5" y="1087" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="289" y1="1114" x2="312.5" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="340.5" y1="1114" x2="364" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="312.5" y="1109" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="289" y1="1136" x2="312.5" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="340.5" y1="1136" x2="364" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="312.5" y="1131" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="289" y1="1158" x2="312.5" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="340.5" y1="1158" x2="364" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="312.5" y="1153" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="289" y1="1180" x2="312.5" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="340.5" y1="1180" x2="364" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="312.5" y="1175" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="289" y1="1202" x2="312.5" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="340.5" y1="1202" x2="364" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="312.5" y="1197" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="289" y1="1224" x2="312.5" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="340.5" y1="1224" x2="364" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="312.5" y="1219" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="326" y="1080" font-size="10" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">R1–R7 · 680 Ω</text>
+<line x1="360" y1="1242" x2="368" y2="1250" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="360" y1="1250" x2="368" y2="1242" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="590" y="1040" width="130" height="200" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="590" y1="1078" x2="720" y2="1078" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="655.0" y="1057" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U7 · CD4511</text>
+<text x="655.0" y="1071" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">hours ones decoder</text>
+<line x1="556" y1="1092" x2="590" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="586" y="1088" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="597" y="1096" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">A</text>
+<polygon points="556,1092 549,1084 512.4,1084 512.4,1100 549,1100" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="530.7" y="1096" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H1_A</text>
+<line x1="556" y1="1114" x2="590" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="586" y="1110" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="597" y="1118" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">B</text>
+<polygon points="556,1114 549,1106 512.4,1106 512.4,1122 549,1122" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="530.7" y="1118" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H1_B</text>
+<line x1="556" y1="1136" x2="590" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="586" y="1132" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="597" y="1140" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">C</text>
+<polygon points="556,1136 549,1128 512.4,1128 512.4,1144 549,1144" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="530.7" y="1140" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H1_C</text>
+<line x1="556" y1="1158" x2="590" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="586" y="1154" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="597" y="1162" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">D</text>
+<polygon points="556,1158 549,1150 512.4,1150 512.4,1166 549,1166" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="530.7" y="1162" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">H1_D</text>
+<line x1="556" y1="1180" x2="590" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="586" y="1176" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3</text>
+<text x="597" y="1184" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">LT̅</text>
+<polygon points="556,1180 549,1172 519.3,1172 519.3,1188 549,1188" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.2"/>
+<text x="534.15" y="1184" font-size="10.5" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Menlo, Consolas, monospace">+5V</text>
+<line x1="556" y1="1202" x2="590" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="586" y="1198" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="597" y="1206" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">BI̅</text>
+<polygon points="556,1202 549,1194 519.3,1194 519.3,1210 549,1210" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.2"/>
+<text x="534.15" y="1206" font-size="10.5" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Menlo, Consolas, monospace">+5V</text>
+<line x1="556" y1="1224" x2="590" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="586" y="1220" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="597" y="1228" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">LE</text>
+<polygon points="556,1224 549,1216 519.3,1216 519.3,1232 549,1232" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="534.15" y="1228" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="720" y1="1092" x2="754" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="724" y="1088" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">13</text>
+<text x="713" y="1096" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">a</text>
+<line x1="720" y1="1114" x2="754" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="724" y="1110" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">12</text>
+<text x="713" y="1118" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">b</text>
+<line x1="720" y1="1136" x2="754" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="724" y="1132" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">11</text>
+<text x="713" y="1140" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">c</text>
+<line x1="720" y1="1158" x2="754" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="724" y="1154" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="713" y="1162" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">d</text>
+<line x1="720" y1="1180" x2="754" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="724" y="1176" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="713" y="1184" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">e</text>
+<line x1="720" y1="1202" x2="754" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="724" y="1198" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">15</text>
+<text x="713" y="1206" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">f</text>
+<line x1="720" y1="1224" x2="754" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="724" y="1220" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">14</text>
+<text x="713" y="1228" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">g</text>
+<line x1="655.0" y1="1022" x2="655.0" y2="1040" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="660.0" y="1035" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">16</text>
+<line x1="646.0" y1="1022" x2="664.0" y2="1022" stroke="#b91c1c" stroke-width="2" stroke-linecap="round"/>
+<text x="655.0" y="1017" font-size="10" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Helvetica, Arial, sans-serif">+5V</text>
+<line x1="655.0" y1="1240" x2="655.0" y2="1256" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="660.0" y="1252" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">8</text>
+<line x1="655.0" y1="1256" x2="655.0" y2="1262" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="646.0" y1="1262" x2="664.0" y2="1262" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="649.5" y1="1266" x2="660.5" y2="1266" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="653.0" y1="1270" x2="657.0" y2="1270" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="865" y="1040" width="70" height="222" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="865" y1="1078" x2="935" y2="1078" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="900.0" y="1057" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">DS2</text>
+<text x="900.0" y="1071" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">hours ones</text>
+<line x1="829" y1="1092" x2="865" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="861" y="1088" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="871" y="1096" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">a</text>
+<line x1="829" y1="1114" x2="865" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="861" y="1110" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="871" y="1118" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">b</text>
+<line x1="829" y1="1136" x2="865" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="861" y="1132" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="871" y="1140" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">c</text>
+<line x1="829" y1="1158" x2="865" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="861" y="1154" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="871" y="1162" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">d</text>
+<line x1="829" y1="1180" x2="865" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="861" y="1176" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="871" y="1184" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">e</text>
+<line x1="829" y1="1202" x2="865" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="861" y="1198" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="871" y="1206" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">f</text>
+<line x1="829" y1="1224" x2="865" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="861" y="1220" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="871" y="1228" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">g</text>
+<line x1="829" y1="1246" x2="865" y2="1246" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="861" y="1242" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="871" y="1250" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">DP</text>
+<rect x="904" y="1124" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="920" y="1129" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="920" y="1161.5" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="904" y="1189" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="899" y="1161.5" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="899" y="1129" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="904" y="1156.5" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<circle cx="930" cy="1192" r="2.6" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<line x1="900.0" y1="1262" x2="900.0" y2="1278" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="905.0" y="1274" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3, 8 (COM)</text>
+<line x1="900.0" y1="1278" x2="900.0" y2="1284" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="891.0" y1="1284" x2="909.0" y2="1284" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="894.5" y1="1288" x2="905.5" y2="1288" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="898.0" y1="1292" x2="902.0" y2="1292" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="754" y1="1092" x2="777.5" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="805.5" y1="1092" x2="829" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="777.5" y="1087" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="754" y1="1114" x2="777.5" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="805.5" y1="1114" x2="829" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="777.5" y="1109" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="754" y1="1136" x2="777.5" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="805.5" y1="1136" x2="829" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="777.5" y="1131" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="754" y1="1158" x2="777.5" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="805.5" y1="1158" x2="829" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="777.5" y="1153" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="754" y1="1180" x2="777.5" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="805.5" y1="1180" x2="829" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="777.5" y="1175" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="754" y1="1202" x2="777.5" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="805.5" y1="1202" x2="829" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="777.5" y="1197" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="754" y1="1224" x2="777.5" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="805.5" y1="1224" x2="829" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="777.5" y="1219" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="791" y="1080" font-size="10" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">R8–R14 · 470 Ω</text>
+<polygon points="767,1246 760,1238 730.3,1238 730.3,1254 760,1254" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="745.15" y="1250" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">1HZ</text>
+<line x1="767" y1="1246" x2="784.0" y2="1246" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="812.0" y1="1246" x2="829" y2="1246" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="784.0" y="1241" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="798.0" y="1262" font-size="10" text-anchor="middle" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">R29 1 kΩ</text>
+<rect x="1055" y="1040" width="130" height="200" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="1055" y1="1078" x2="1185" y2="1078" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="1120.0" y="1057" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U8 · CD4511</text>
+<text x="1120.0" y="1071" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">minutes tens decoder</text>
+<line x1="1021" y1="1092" x2="1055" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1051" y="1088" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="1062" y="1096" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">A</text>
+<polygon points="1021,1092 1014,1084 970.5,1084 970.5,1100 1014,1100" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="992.25" y="1096" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_A</text>
+<line x1="1021" y1="1114" x2="1055" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1051" y="1110" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="1062" y="1118" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">B</text>
+<polygon points="1021,1114 1014,1106 970.5,1106 970.5,1122 1014,1122" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="992.25" y="1118" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_B</text>
+<line x1="1021" y1="1136" x2="1055" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1051" y="1132" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="1062" y="1140" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">C</text>
+<polygon points="1021,1136 1014,1128 970.5,1128 970.5,1144 1014,1144" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="992.25" y="1140" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_C</text>
+<line x1="1021" y1="1158" x2="1055" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1051" y="1154" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="1062" y="1162" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">D</text>
+<polygon points="1021,1158 1014,1150 970.5,1150 970.5,1166 1014,1166" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="992.25" y="1162" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M10_D</text>
+<line x1="1021" y1="1180" x2="1055" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1051" y="1176" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3</text>
+<text x="1062" y="1184" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">LT̅</text>
+<polygon points="1021,1180 1014,1172 984.3,1172 984.3,1188 1014,1188" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.2"/>
+<text x="999.15" y="1184" font-size="10.5" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Menlo, Consolas, monospace">+5V</text>
+<line x1="1021" y1="1202" x2="1055" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1051" y="1198" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="1062" y="1206" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">BI̅</text>
+<polygon points="1021,1202 1014,1194 984.3,1194 984.3,1210 1014,1210" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.2"/>
+<text x="999.15" y="1206" font-size="10.5" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Menlo, Consolas, monospace">+5V</text>
+<line x1="1021" y1="1224" x2="1055" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1051" y="1220" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="1062" y="1228" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">LE</text>
+<polygon points="1021,1224 1014,1216 984.3,1216 984.3,1232 1014,1232" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="999.15" y="1228" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="1185" y1="1092" x2="1219" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1189" y="1088" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">13</text>
+<text x="1178" y="1096" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">a</text>
+<line x1="1185" y1="1114" x2="1219" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1189" y="1110" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">12</text>
+<text x="1178" y="1118" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">b</text>
+<line x1="1185" y1="1136" x2="1219" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1189" y="1132" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">11</text>
+<text x="1178" y="1140" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">c</text>
+<line x1="1185" y1="1158" x2="1219" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1189" y="1154" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="1178" y="1162" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">d</text>
+<line x1="1185" y1="1180" x2="1219" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1189" y="1176" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="1178" y="1184" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">e</text>
+<line x1="1185" y1="1202" x2="1219" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1189" y="1198" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">15</text>
+<text x="1178" y="1206" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">f</text>
+<line x1="1185" y1="1224" x2="1219" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1189" y="1220" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">14</text>
+<text x="1178" y="1228" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">g</text>
+<line x1="1120.0" y1="1022" x2="1120.0" y2="1040" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1125.0" y="1035" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">16</text>
+<line x1="1111.0" y1="1022" x2="1129.0" y2="1022" stroke="#b91c1c" stroke-width="2" stroke-linecap="round"/>
+<text x="1120.0" y="1017" font-size="10" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Helvetica, Arial, sans-serif">+5V</text>
+<line x1="1120.0" y1="1240" x2="1120.0" y2="1256" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1125.0" y="1252" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">8</text>
+<line x1="1120.0" y1="1256" x2="1120.0" y2="1262" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1111.0" y1="1262" x2="1129.0" y2="1262" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1114.5" y1="1266" x2="1125.5" y2="1266" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1118.0" y1="1270" x2="1122.0" y2="1270" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="1330" y="1040" width="70" height="222" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="1330" y1="1078" x2="1400" y2="1078" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="1365.0" y="1057" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">DS3</text>
+<text x="1365.0" y="1071" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">minutes tens</text>
+<line x1="1294" y1="1092" x2="1330" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="1088" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="1336" y="1096" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">a</text>
+<line x1="1294" y1="1114" x2="1330" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="1110" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="1336" y="1118" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">b</text>
+<line x1="1294" y1="1136" x2="1330" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="1132" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="1336" y="1140" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">c</text>
+<line x1="1294" y1="1158" x2="1330" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="1154" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="1336" y="1162" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">d</text>
+<line x1="1294" y1="1180" x2="1330" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="1176" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="1336" y="1184" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">e</text>
+<line x1="1294" y1="1202" x2="1330" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="1198" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="1336" y="1206" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">f</text>
+<line x1="1294" y1="1224" x2="1330" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="1220" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="1336" y="1228" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">g</text>
+<line x1="1294" y1="1246" x2="1330" y2="1246" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1326" y="1242" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="1336" y="1250" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">DP</text>
+<rect x="1369" y="1124" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1385" y="1129" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1385" y="1161.5" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1369" y="1189" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1364" y="1161.5" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1364" y="1129" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1369" y="1156.5" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<circle cx="1395" cy="1192" r="2.6" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<line x1="1365.0" y1="1262" x2="1365.0" y2="1278" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1370.0" y="1274" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3, 8 (COM)</text>
+<line x1="1365.0" y1="1278" x2="1365.0" y2="1284" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1356.0" y1="1284" x2="1374.0" y2="1284" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1359.5" y1="1288" x2="1370.5" y2="1288" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1363.0" y1="1292" x2="1367.0" y2="1292" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1219" y1="1092" x2="1242.5" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1270.5" y1="1092" x2="1294" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1242.5" y="1087" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1219" y1="1114" x2="1242.5" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1270.5" y1="1114" x2="1294" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1242.5" y="1109" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1219" y1="1136" x2="1242.5" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1270.5" y1="1136" x2="1294" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1242.5" y="1131" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1219" y1="1158" x2="1242.5" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1270.5" y1="1158" x2="1294" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1242.5" y="1153" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1219" y1="1180" x2="1242.5" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1270.5" y1="1180" x2="1294" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1242.5" y="1175" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1219" y1="1202" x2="1242.5" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1270.5" y1="1202" x2="1294" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1242.5" y="1197" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1219" y1="1224" x2="1242.5" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1270.5" y1="1224" x2="1294" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1242.5" y="1219" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="1256" y="1080" font-size="10" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">R15–R21 · 510 Ω</text>
+<line x1="1290" y1="1242" x2="1298" y2="1250" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1290" y1="1250" x2="1298" y2="1242" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1520" y="1040" width="130" height="200" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="1520" y1="1078" x2="1650" y2="1078" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="1585.0" y="1057" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">U9 · CD4511</text>
+<text x="1585.0" y="1071" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">minutes ones decoder</text>
+<line x1="1486" y1="1092" x2="1520" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1516" y="1088" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="1527" y="1096" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">A</text>
+<polygon points="1486,1092 1479,1084 1442.4,1084 1442.4,1100 1479,1100" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1460.7" y="1096" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M1_A</text>
+<line x1="1486" y1="1114" x2="1520" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1516" y="1110" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="1527" y="1118" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">B</text>
+<polygon points="1486,1114 1479,1106 1442.4,1106 1442.4,1122 1479,1122" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1460.7" y="1118" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M1_B</text>
+<line x1="1486" y1="1136" x2="1520" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1516" y="1132" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="1527" y="1140" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">C</text>
+<polygon points="1486,1136 1479,1128 1442.4,1128 1442.4,1144 1479,1144" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1460.7" y="1140" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M1_C</text>
+<line x1="1486" y1="1158" x2="1520" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1516" y="1154" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="1527" y="1162" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">D</text>
+<polygon points="1486,1158 1479,1150 1442.4,1150 1442.4,1166 1479,1166" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="1460.7" y="1162" font-size="10.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Menlo, Consolas, monospace">M1_D</text>
+<line x1="1486" y1="1180" x2="1520" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1516" y="1176" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3</text>
+<text x="1527" y="1184" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">LT̅</text>
+<polygon points="1486,1180 1479,1172 1449.3,1172 1449.3,1188 1479,1188" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.2"/>
+<text x="1464.15" y="1184" font-size="10.5" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Menlo, Consolas, monospace">+5V</text>
+<line x1="1486" y1="1202" x2="1520" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1516" y="1198" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="1527" y="1206" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">BI̅</text>
+<polygon points="1486,1202 1479,1194 1449.3,1194 1449.3,1210 1479,1210" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.2"/>
+<text x="1464.15" y="1206" font-size="10.5" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Menlo, Consolas, monospace">+5V</text>
+<line x1="1486" y1="1224" x2="1520" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1516" y="1220" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="1527" y="1228" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">LE</text>
+<polygon points="1486,1224 1479,1216 1449.3,1216 1449.3,1232 1479,1232" fill="#f3f4f6" stroke="#4b5563" stroke-width="1.2"/>
+<text x="1464.15" y="1228" font-size="10.5" text-anchor="middle" fill="#4b5563" font-weight="bold" font-family="Menlo, Consolas, monospace">GND</text>
+<line x1="1650" y1="1092" x2="1684" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1654" y="1088" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">13</text>
+<text x="1643" y="1096" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">a</text>
+<line x1="1650" y1="1114" x2="1684" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1654" y="1110" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">12</text>
+<text x="1643" y="1118" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">b</text>
+<line x1="1650" y1="1136" x2="1684" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1654" y="1132" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">11</text>
+<text x="1643" y="1140" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">c</text>
+<line x1="1650" y1="1158" x2="1684" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1654" y="1154" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="1643" y="1162" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">d</text>
+<line x1="1650" y1="1180" x2="1684" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1654" y="1176" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="1643" y="1184" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">e</text>
+<line x1="1650" y1="1202" x2="1684" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1654" y="1198" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">15</text>
+<text x="1643" y="1206" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">f</text>
+<line x1="1650" y1="1224" x2="1684" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1654" y="1220" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">14</text>
+<text x="1643" y="1228" font-size="10.5" text-anchor="end" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">g</text>
+<line x1="1585.0" y1="1022" x2="1585.0" y2="1040" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1590.0" y="1035" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">16</text>
+<line x1="1576.0" y1="1022" x2="1594.0" y2="1022" stroke="#b91c1c" stroke-width="2" stroke-linecap="round"/>
+<text x="1585.0" y="1017" font-size="10" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Helvetica, Arial, sans-serif">+5V</text>
+<line x1="1585.0" y1="1240" x2="1585.0" y2="1256" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1590.0" y="1252" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">8</text>
+<line x1="1585.0" y1="1256" x2="1585.0" y2="1262" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1576.0" y1="1262" x2="1594.0" y2="1262" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1579.5" y1="1266" x2="1590.5" y2="1266" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1583.0" y1="1270" x2="1587.0" y2="1270" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="1795" y="1040" width="70" height="222" rx="3" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<line x1="1795" y1="1078" x2="1865" y2="1078" stroke="#d6d3c4" stroke-width="1" stroke-linecap="round"/>
+<text x="1830.0" y="1057" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">DS4</text>
+<text x="1830.0" y="1071" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">minutes ones</text>
+<line x1="1759" y1="1092" x2="1795" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1791" y="1088" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">7</text>
+<text x="1801" y="1096" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">a</text>
+<line x1="1759" y1="1114" x2="1795" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1791" y="1110" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">6</text>
+<text x="1801" y="1118" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">b</text>
+<line x1="1759" y1="1136" x2="1795" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1791" y="1132" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">4</text>
+<text x="1801" y="1140" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">c</text>
+<line x1="1759" y1="1158" x2="1795" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1791" y="1154" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">2</text>
+<text x="1801" y="1162" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">d</text>
+<line x1="1759" y1="1180" x2="1795" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1791" y="1176" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">1</text>
+<text x="1801" y="1184" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">e</text>
+<line x1="1759" y1="1202" x2="1795" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1791" y="1198" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">9</text>
+<text x="1801" y="1206" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">f</text>
+<line x1="1759" y1="1224" x2="1795" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1791" y="1220" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">10</text>
+<text x="1801" y="1228" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">g</text>
+<line x1="1759" y1="1246" x2="1795" y2="1246" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1791" y="1242" font-size="9.5" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">5</text>
+<text x="1801" y="1250" font-size="10.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">DP</text>
+<rect x="1834" y="1124" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1850" y="1129" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1850" y="1161.5" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1834" y="1189" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1829" y="1161.5" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1829" y="1129" width="5" height="27.5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<rect x="1834" y="1156.5" width="16" height="5" rx="1.5" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<circle cx="1860" cy="1192" r="2.6" fill="#fecaca" stroke="#ef4444" stroke-width="0.8"/>
+<line x1="1830.0" y1="1262" x2="1830.0" y2="1278" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1835.0" y="1274" font-size="9.5" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Menlo, Consolas, monospace">3, 8 (COM)</text>
+<line x1="1830.0" y1="1278" x2="1830.0" y2="1284" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1821.0" y1="1284" x2="1839.0" y2="1284" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1824.5" y1="1288" x2="1835.5" y2="1288" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1828.0" y1="1292" x2="1832.0" y2="1292" stroke="#1f2937" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1684" y1="1092" x2="1707.5" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1735.5" y1="1092" x2="1759" y2="1092" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1707.5" y="1087" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1684" y1="1114" x2="1707.5" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1735.5" y1="1114" x2="1759" y2="1114" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1707.5" y="1109" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1684" y1="1136" x2="1707.5" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1735.5" y1="1136" x2="1759" y2="1136" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1707.5" y="1131" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1684" y1="1158" x2="1707.5" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1735.5" y1="1158" x2="1759" y2="1158" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1707.5" y="1153" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1684" y1="1180" x2="1707.5" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1735.5" y1="1180" x2="1759" y2="1180" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1707.5" y="1175" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1684" y1="1202" x2="1707.5" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1735.5" y1="1202" x2="1759" y2="1202" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1707.5" y="1197" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="1684" y1="1224" x2="1707.5" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1735.5" y1="1224" x2="1759" y2="1224" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1707.5" y="1219" width="28" height="10" fill="#fff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="1721" y="1080" font-size="10" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">R22–R28 · 470/510/680 Ω</text>
+<line x1="1755" y1="1242" x2="1763" y2="1250" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1755" y1="1250" x2="1763" y2="1242" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="20" y="1338" width="1160" height="262" rx="10" fill="#ffffff" stroke="#c7cdd6" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="36" y="1366" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">5 · Power and decoupling</text>
+<rect x="50" y="1392" width="180" height="120" rx="6" fill="#ecfdf5" stroke="#1f2937" stroke-width="1.8"/>
+<text x="140" y="1420" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">PS1</text>
+<text x="140" y="1440" font-size="11" text-anchor="middle" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">MB102 breadboard</text>
+<text x="140" y="1456" font-size="11" text-anchor="middle" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">power module</text>
+<text x="140" y="1478" font-size="10" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">jumpers on 5 V</text>
+<text x="140" y="1494" font-size="9.5" text-anchor="middle" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">in: 9–12 V barrel adapter</text>
+<line x1="230" y1="1430" x2="1150" y2="1430" stroke="#b91c1c" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="230" y1="1490" x2="1150" y2="1490" stroke="#4b5563" stroke-width="2.2" stroke-linecap="round"/>
+<text x="240" y="1422" font-size="11" text-anchor="start" fill="#b91c1c" font-weight="bold" font-family="Helvetica, Arial, sans-serif">+5V rail (VDD)</text>
+<text x="240" y="1508" font-size="11" text-anchor="start" fill="#4b5563" font-weight="bold" font-family="Helvetica, Arial, sans-serif">GND rail (VSS)</text>
+<line x1="400" y1="1430" x2="400" y2="1456.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="400" y1="1464.0" x2="400" y2="1490" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="390" y1="1456.0" x2="410" y2="1456.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="390" y1="1464.0" x2="410" y2="1464.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="400" cy="1430" r="3.4" fill="#1f2937"/>
+<circle cx="400" cy="1490" r="3.4" fill="#1f2937"/>
+<text x="413" y="1456" font-size="10" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">C3</text>
+<text x="413" y="1469" font-size="10" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U1</text>
+<line x1="476" y1="1430" x2="476" y2="1456.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="476" y1="1464.0" x2="476" y2="1490" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="466" y1="1456.0" x2="486" y2="1456.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="466" y1="1464.0" x2="486" y2="1464.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="476" cy="1430" r="3.4" fill="#1f2937"/>
+<circle cx="476" cy="1490" r="3.4" fill="#1f2937"/>
+<text x="489" y="1456" font-size="10" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">C4</text>
+<text x="489" y="1469" font-size="10" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U2</text>
+<line x1="552" y1="1430" x2="552" y2="1456.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="552" y1="1464.0" x2="552" y2="1490" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="542" y1="1456.0" x2="562" y2="1456.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="542" y1="1464.0" x2="562" y2="1464.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="552" cy="1430" r="3.4" fill="#1f2937"/>
+<circle cx="552" cy="1490" r="3.4" fill="#1f2937"/>
+<text x="565" y="1456" font-size="10" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">C5</text>
+<text x="565" y="1469" font-size="10" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U3</text>
+<line x1="628" y1="1430" x2="628" y2="1456.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="628" y1="1464.0" x2="628" y2="1490" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="618" y1="1456.0" x2="638" y2="1456.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="618" y1="1464.0" x2="638" y2="1464.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="628" cy="1430" r="3.4" fill="#1f2937"/>
+<circle cx="628" cy="1490" r="3.4" fill="#1f2937"/>
+<text x="641" y="1456" font-size="10" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">C6</text>
+<text x="641" y="1469" font-size="10" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U4</text>
+<line x1="704" y1="1430" x2="704" y2="1456.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="704" y1="1464.0" x2="704" y2="1490" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="694" y1="1456.0" x2="714" y2="1456.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="694" y1="1464.0" x2="714" y2="1464.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="704" cy="1430" r="3.4" fill="#1f2937"/>
+<circle cx="704" cy="1490" r="3.4" fill="#1f2937"/>
+<text x="717" y="1456" font-size="10" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">C7</text>
+<text x="717" y="1469" font-size="10" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U5</text>
+<line x1="780" y1="1430" x2="780" y2="1456.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="780" y1="1464.0" x2="780" y2="1490" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="770" y1="1456.0" x2="790" y2="1456.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="770" y1="1464.0" x2="790" y2="1464.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="780" cy="1430" r="3.4" fill="#1f2937"/>
+<circle cx="780" cy="1490" r="3.4" fill="#1f2937"/>
+<text x="793" y="1456" font-size="10" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">C8</text>
+<text x="793" y="1469" font-size="10" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U6</text>
+<line x1="856" y1="1430" x2="856" y2="1456.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="856" y1="1464.0" x2="856" y2="1490" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="846" y1="1456.0" x2="866" y2="1456.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="846" y1="1464.0" x2="866" y2="1464.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="856" cy="1430" r="3.4" fill="#1f2937"/>
+<circle cx="856" cy="1490" r="3.4" fill="#1f2937"/>
+<text x="869" y="1456" font-size="10" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">C9</text>
+<text x="869" y="1469" font-size="10" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U7</text>
+<line x1="932" y1="1430" x2="932" y2="1456.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="932" y1="1464.0" x2="932" y2="1490" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="922" y1="1456.0" x2="942" y2="1456.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="922" y1="1464.0" x2="942" y2="1464.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="932" cy="1430" r="3.4" fill="#1f2937"/>
+<circle cx="932" cy="1490" r="3.4" fill="#1f2937"/>
+<text x="945" y="1456" font-size="10" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">C10</text>
+<text x="945" y="1469" font-size="10" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U8</text>
+<line x1="1008" y1="1430" x2="1008" y2="1456.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1008" y1="1464.0" x2="1008" y2="1490" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="998" y1="1456.0" x2="1018" y2="1456.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="998" y1="1464.0" x2="1018" y2="1464.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="1008" cy="1430" r="3.4" fill="#1f2937"/>
+<circle cx="1008" cy="1490" r="3.4" fill="#1f2937"/>
+<text x="1021" y="1456" font-size="10" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">C11</text>
+<text x="1021" y="1469" font-size="10" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U9</text>
+<line x1="1084" y1="1430" x2="1084" y2="1456.0" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1084" y1="1464.0" x2="1084" y2="1490" stroke="#1f2937" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="1074" y1="1456.0" x2="1094" y2="1456.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="1074" y1="1464.0" x2="1094" y2="1464.0" stroke="#1f2937" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="1084" cy="1430" r="3.4" fill="#1f2937"/>
+<circle cx="1084" cy="1490" r="3.4" fill="#1f2937"/>
+<text x="1097" y="1456" font-size="10" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">C12</text>
+<text x="1097" y="1469" font-size="10" text-anchor="start" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">U10</text>
+<text x="50" y="1546" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">C3–C12: 100 nF each, one per chip, placed right beside its power pins (VDD 16 / VSS 8; on U10: 14 / 7).</text>
+<text x="50" y="1566" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Bridge the rails of both breadboards together: +5V to +5V, GND to GND.</text>
+<rect x="1200" y="1338" width="680" height="262" rx="10" fill="#ffffff" stroke="#c7cdd6" stroke-width="1.2" stroke-dasharray="6 5"/>
+<text x="1216" y="1366" font-size="15" text-anchor="start" fill="#1f2937" font-weight="bold" font-family="Helvetica, Arial, sans-serif">Notes</text>
+<text x="1220" y="1392" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">• A digit ticks when the digit before it rolls over: ones use Q4 falling (9→0),</text>
+<text x="1231" y="1414" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">tens use Q3 falling (6→0 reset). CLK pins on those counters are tied to GND.</text>
+<text x="1220" y="1436" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">• Seconds are counted (U2-B, U3-A) but not shown. DS2’s DP blinks at 1 Hz.</text>
+<text x="1220" y="1458" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">• Tie every unused input to +5V or GND. Floating CMOS inputs cause random jumps.</text>
+<text x="1220" y="1480" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">• Pinout shown is the common 5161AS. Check your display’s pins before wiring.</text>
+<text x="1220" y="1502" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">• Time is random at power-up: bridge JP2 (hours), then JP1 (minutes).</text>
+<text x="1220" y="1524" font-size="11.5" text-anchor="start" fill="#1f2937" font-weight="normal" font-family="Helvetica, Arial, sans-serif">• The 1 Hz decimal point is dim (counter output is weak). That’s expected.</text>
+<text x="1864" y="1588" font-size="10" text-anchor="end" fill="#6b7280" font-weight="normal" font-family="Helvetica, Arial, sans-serif">Logic-chip clock · rev B · 2026-10-31 · reference designators match bom.csv</text>
+</svg>
