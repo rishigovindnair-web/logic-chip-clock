@@ -1,0 +1,23 @@
+{
+  "board": {},
+  "boards": [],
+  "libraries": {
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": []
+  },
+  "meta": {
+    "filename": "logic-clock.kicad_pro",
+    "version": 1
+  },
+  "schematic": {
+    "legacy_lib_dir": "",
+    "legacy_lib_list": []
+  },
+  "sheets": [
+    [
+      "9adc9df2-94b4-4675-9577-52bd5bf59ae4",
+      ""
+    ]
+  ],
+  "text_variables": {}
+}
