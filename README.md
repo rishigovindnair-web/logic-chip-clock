@@ -2,7 +2,7 @@
 
 A 24-hour clock with 4 digits (HH:MM), assembled entirely from 4000-series CMOS logic chips across two breadboards. There is no microcontroller, no code, and no soldering. All of the timekeeping is handled by chips that you wire together yourself.
 
-The total cost comes to about **$30** for parts from AliExpress, tax and shipping included.
+The total cost comes to about **$28** for parts from AliExpress, tax and shipping included.
 
 ![The build](docs/logic-clock.png)
 
@@ -15,7 +15,6 @@ The total cost comes to about **$30** for parts from AliExpress, tax and shippin
 | `docs/clock-schematic.png` / `.svg` | Single-page overview drawing showing pin numbers |
 | `docs/logic-clock.png` | Illustration of the completed build |
 | `bom.csv` | Bill of materials with links and prices |
-| `variants/arduino-nano/` | Optional alternative build: an Arduino Nano replaces board 2, with set buttons and an optional DS3231 clock module |
 
 ## How it works
 
@@ -55,25 +54,26 @@ At all other times, a 10k resistor (R34) keeps SET low.
 
 ## Bill of materials
 
-Prices are from the AliExpress US cart as of Oct 31, 2026. Every item is shipped by AliExpress itself (the "Choice" program), so once that portion of the order exceeds $10, shipping is free. Complete details and the exact variant to select can be found in [`bom.csv`](bom.csv).
+Prices are from the AliExpress US checkout as of Nov 1, 2026. Every item is shipped by AliExpress itself (the "Choice" program), so once that portion of the order exceeds $10, shipping is free. Complete details and the exact variant to select can be found in [`bom.csv`](bom.csv).
 
 | Ref | Part | Qty used | Price |
 |---|---|---|---|
-| U1 | [CD4060BE (pack of 10)](https://www.aliexpress.us/item/3256803148137606.html) | 1 | $1.85 |
+| U1 | [CD4060BE (pack of 10)](https://www.aliexpress.us/item/3256803148137606.html) | 1 | $1.76 |
 | U2–U5 | [CD4518BE (5-pack)](https://www.aliexpress.us/item/3256812407957703.html) | 4 | $1.98 |
 | U6–U9 | [CD4511BE (5-pack)](https://www.aliexpress.us/item/3256812407656068.html) | 4 | $1.68 |
 | U10 | [CD4081BE (5-pack)](https://www.aliexpress.us/item/3256812908266140.html) | 1 | $1.88 |
 | DS1–DS4 | [0.56" red 7-segment, **common cathode** (5-pack)](https://www.aliexpress.us/item/3256810377855693.html) | 4 | $1.09* |
 | Y1 | [32.768 kHz crystal (20-pack)](https://www.aliexpress.us/item/2251800614977910.html) | 1 | $1.63 |
-| BB1, PS1, W1 | [830 breadboard + MB102 power module + 65 jumper wires](https://www.aliexpress.us/item/3256805886191982.html) | 1 kit | $5.65 |
+| BB1, PS1, W1 | [830 breadboard + MB102 power module + 65 jumper wires](https://www.aliexpress.us/item/3256805886191982.html) | 1 kit | $4.95 |
 | BB2 | [Second 830 breadboard](https://www.aliexpress.us/item/3256805886191982.html) | 1 | $3.25 |
-| R1–R34 | [Resistor kit, 30 values × 10](https://www.aliexpress.us/item/3256811586219421.html) | 34 | $4.05 |
-| C1–C2 | [22 pF ceramic (50-pack)](https://www.aliexpress.us/item/3256808410076521.html) | 2 | $2.24 |
-| C3–C12 | [100 nF ceramic (50-pack)](https://www.aliexpress.us/item/3256808410076521.html) | 10 | $2.23 |
+| R1–R34 | [Resistor kit, 30 values × 10](https://www.aliexpress.us/item/3256811586219421.html) | 34 | $3.45 |
+| C1–C2 | [22 pF ceramic (50-pack)](https://www.aliexpress.us/item/3256808410076521.html) | 2 | $2.10 |
+| C3–C12 | [100 nF ceramic (50-pack)](https://www.aliexpress.us/item/3256808410076521.html) | 10 | $2.09 |
 | JP1–JP2 | One spare jumper wire taken from the kit | — | — |
 | — | 9–12 V wall adapter, 5.5×2.1 mm plug | 1 | (already owned) |
-| | **Parts subtotal** | | **$27.53** |
-| | **Including ~9% sales tax** | | **≈ $30.04** |
+| | **Parts subtotal** | | **$25.86** |
+| | **Tax (at checkout)** | | **$2.52** |
+| | **Total** | | **$28.38** |
 
 \* Discounted price for returning shoppers. Regular price is $1.98.
 
